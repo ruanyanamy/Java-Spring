@@ -12,7 +12,7 @@ import org.springframework.jdbc.support.KeyHolder;
 import org.springframework.stereotype.Component;
 
 @Component
-public class ProductDAOImpl implements ProductDAO {
+public class ProductDAOImpl implements ProductDao {
 	
 	@Autowired
 	private ProductRowMapper productRowMapper;	
