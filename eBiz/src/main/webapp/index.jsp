@@ -12,6 +12,8 @@
 <body>
 	<h1>Welcome to my Spring Boot playground~</h1>
 	<p>Current time is <%= SimpleDateFormat.getInstance().format(new Date()) %>></p>
-	
+	<a href="hello">Hello</a>
+	<a href="student">Add Student</a>
+	<a href="listStudents">List Student</a>
 </body>
 </html>
