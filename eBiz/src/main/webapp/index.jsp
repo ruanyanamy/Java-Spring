@@ -15,5 +15,6 @@
 	<a href="hello">Hello</a>
 	<a href="student">Add Student</a>
 	<a href="listStudents">List Student</a>
+	<a href="spa/index.html">SPA Demo</a>
 </body>
 </html>
